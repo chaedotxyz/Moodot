@@ -8,7 +8,7 @@ Thank you for using Moodot. If you are experiencing an issue, have a question ab
 
 Please reach out to us directly at **chaedotxyz@gmail.com**. We aim to respond to all inquiries within 1–3 business days.
 
-## Frequently Asked Questions
+## FAQ
 
 **Where is my data stored?**
 All of your notes and mood entries are stored locally on your Mac. Moodot does not sync or upload your data to any server or cloud service. Your journal is private and stays on your device.
