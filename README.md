@@ -4,7 +4,7 @@
 
 You write. But sometimes you don’t want to re-read everything you wrote. You just want to know how you were feeling that day.
 
-Moodot is a note-taking app that tracks your mood alongside every entry. Each note is assigned a mood on a color spectrum, raning from melancholy to euphoric. Simple, fast, and built for your emotional wellbeing.
+Moodot is a note-taking app that tracks your mood alongside every entry. Each note is assigned a mood on a color spectrum, ranging from melancholy to euphoric. Simple, fast, and built for your emotional wellbeing.
 
 Write what’s on your mind, set your mood, and move on. Over time, the Mood Analytics view shows you exactly which moods show up most in your entries — and how often.
 
