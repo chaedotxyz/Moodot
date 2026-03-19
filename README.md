@@ -28,6 +28,7 @@ Write what’s on your mind, set your mood, and move on. Over time, the Mood Ana
 ## Privacy
 
 Moodot does not collect, store, or transmit any personal data. Everything stays on your device. 
+
 [Read the full Privacy Policy](./PRIVACY.md)
 
 ---
