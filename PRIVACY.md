@@ -12,7 +12,11 @@ Moodot does not collect, transmit, or store any personal data on external server
 
 ## Local Storage of Data
 
-Every note, mood entry, and preference you set in Moodot is saved directly to your Mac's local storage. This includes your journal entries, mood states across the 8-point spectrum (melancholy through euphoric), auto-saved timestamps, and location-based city data derived from your timezone. None of this information leaves your device at any point.
+Every note, mood entry, and preference you set in Moodot is saved directly to your Mac's local storage. This includes your journal entries, mood states across the 8-point spectrum (melancholy through euphoric), and auto-saved timestamps.
+
+## Timestamp and City Display
+
+Each note is automatically timestamped using your Mac's system clock. The city name displayed alongside each entry is derived solely from your Mac's system timezone setting (for example, `Asia/Seoul` displays as "Seoul"). Moodot does not access your device's GPS, location services, or any network-based location data. No location information is collected or transmitted — the city name is read entirely from your local system preferences.
 
 ## No Data Sharing
 
