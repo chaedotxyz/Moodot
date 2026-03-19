@@ -2,11 +2,11 @@
 
 **Notes & Mood Tracker for Mac**
 
-You write. But sometimes you don’t want to re-read everything you wrote. You just want to know — how were you feeling that day?
+You write. But sometimes you don’t want to re-read everything you wrote. You just want to know how you were feeling that day.
 
-Moodot is a note-taking app that tracks your mood alongside every entry. Each note gets a mood on a color spectrum, from melancholy to euphoric. Simple, fast, and built for your emotional wellbeing.
+Moodot is a note-taking app that tracks your mood alongside every entry. Each note is assigned a mood on a color spectrum, raning from melancholy to euphoric. Simple, fast, and built for your emotional wellbeing.
 
-Write what’s on your mind, set your mood, and move on. Over time, the Mood Analytics view shows you exactly which moods you’ve visited most — and how often.
+Write what’s on your mind, set your mood, and move on. Over time, the Mood Analytics view shows you exactly which moods show up most in your entries — and how often.
 
 ---
 
@@ -17,7 +17,7 @@ Write what’s on your mind, set your mood, and move on. Over time, the Mood Ana
 - Auto-saves to your device in 3 seconds — no manual saving needed (can either save by cmd + s)
 - Mood Analytics: see how many times you've felt each mood, ranked by frequency with percentages
 - Works fully offline
-- Auto-save with timestamp and city based on your timezone
+- Auto-save with timestamp and city based on your timezone (your Mac's system clock)
 - Word and character count per entry (body paragraphs only)
 - Trash with restore and permanent delete
 - Clean, minimal writing interface
