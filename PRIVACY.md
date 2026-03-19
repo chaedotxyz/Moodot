@@ -32,4 +32,4 @@ We may update this Privacy Policy from time to time to reflect changes in the ap
 
 ## Contact Us
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at **chaedotxyz@gmail.com**.
+If you have any questions or concerns regarding this Privacy Policy, please contact us at **chaedotxyz@gmail.com**
