@@ -7,6 +7,7 @@ Thank you for using Moodot. If you are experiencing an issue, have a question ab
 ## Contact Us
 
 Please reach out to us directly at **chaedotxyz@gmail.com**
+
 We aim to respond to all inquiries within 1–3 business days.
 
 ## FAQ
