@@ -14,7 +14,7 @@ Write what’s on your mind, set your mood, and move on. Over time, the Mood Ana
 
 - Write notes with a mood attached to every entry
 - 8-state mood spectrum: melancholy, sad, calm, neutral, energized, anxious, intense, euphoric
-- Auto-saves to your device in 3 seconds — no manual saving needed (cmd + s works too!)
+- Auto-saves to your device in 3 seconds — no manual saving needed (cmd + s works as well)
 - Mood Analytics: see how many times you've felt each mood, ranked by frequency with percentages
 - Works fully offline
 - Auto-save with timestamp and city based on your timezone
