@@ -18,7 +18,7 @@ Write what’s on your mind, set your mood, and move on. Over time, the Mood Ana
 - Mood Analytics: see how many times you've felt each mood, ranked by frequency with percentages
 - Works fully offline
 - Auto-save with timestamp and city based on your timezone
-- Word and character count per entry
+- Word and character count per entry (body paragraphs only)
 - Trash with restore and permanent delete
 - Clean, minimal writing interface
 - All data saved locally on your device
