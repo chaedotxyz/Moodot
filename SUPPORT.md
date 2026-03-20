@@ -32,7 +32,7 @@ The Mood Analytics view shows a count of how many notes you've written for each 
 Deleted notes are sent to the Trash. You can restore any note from the Trash at any time. Notes that are permanently deleted from the Trash cannot be recovered.
 
 **The app is not opening or behaving unexpectedly — what should I do?**
-Please try quitting the app fully and relaunching it. If the issue persists, restart your Mac and open Moodot again. If you continue to experience problems, contact us at **chaedotxyz@gmail.com** with a description of the issue and your macOS version.
+Please try quitting the app fully and relaunching it. If the issue persists, restart your Mac and open Moodot again. If you continue to experience problems, contact us at (**chaedotxyz@gmail.com**) with a description of the issue and your macOS version.
 
 ## Privacy
 
