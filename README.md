@@ -43,4 +43,4 @@ Having an issue or want to share feedback? We'd love to hear from you.
 
 ## About
 
-Built by chae.
+Built by chaedotxyz.
