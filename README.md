@@ -38,9 +38,3 @@ Moodot does not collect, store, or transmit any personal data. Everything stays 
 Having an issue or want to share feedback? We'd love to hear from you.
 
 [Visit the Support page](./SUPPORT.md) or email **chaedotxyz@gmail.com**
-
----
-
-## About
-
-Built by chaedotxyz.
